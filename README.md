@@ -1,7 +1,22 @@
-### Hi there 👋
+### Hi, I'm Santiago 👋
+## Frontend Developer
+
+```` js
+const Santiago = {
+  pronouns: 'he' | 'him',
+  code: [Javascript, HTML, CSS],
+  tools: [React, Redux, Sass, Style-component, Pug],
+  learning: [Jest, Graphql, NextJS]
+  links: [{
+    Linkedl: 'https://www.linkedin.com/in/santiago-gonzalez-hernandez-b70470160/'
+  }]
+}
+````
+
 
 <!--
 **saniag081/saniag081** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
